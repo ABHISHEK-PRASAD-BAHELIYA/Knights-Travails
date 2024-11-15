@@ -1,0 +1,15 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "The Knight's Travails problem involves finding the shortest path for a knight on a chessboard from a starting position to a target position. Using the knight's unique \"L\" shaped moves, the goal is to determine the minimum number of moves required. This problem is typically solved using a breadth-first search algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
