@@ -59,7 +59,6 @@ knightMoves([0, 0], [7, 7]);
 
 Output:
 
-````plaintext
 You made it in 6 moves! Here's your path:
 [0,0]
 [2,1]
@@ -69,17 +68,13 @@ You made it in 6 moves! Here's your path:
 [6,5]
 [7,7]
 
-```
-
 ---
 
 ## Error Handling
 
 - If invalid inputs are provided (e.g., positions outside the 8x8 chessboard or non-numeric values), the program will throw an error:
 
-```plaintext
 Error: Invalid input: positions must be within the 8x8 chessboard and in the format [x, y].
-````
 
 ---
 
