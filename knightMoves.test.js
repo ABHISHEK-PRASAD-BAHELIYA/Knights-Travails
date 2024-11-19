@@ -1,4 +1,4 @@
-const knightMoves = require('./knightTour');
+const knightMoves = require('./knightMoves');
 
 describe('knightMoves function', () => {
   test('should return the correct path for a simple move', () => {
