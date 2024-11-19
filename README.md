@@ -68,6 +68,7 @@ You made it in 6 moves! Here's your path:
 [4,4]
 [6,5]
 [7,7]
+
 ```
 
 ---
