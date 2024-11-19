@@ -84,8 +84,4 @@ Error: Invalid input: positions must be within the 8x8 chessboard and in the for
 
 ## License
 
-This project is open source and available under the MIT License.
-
-```mark
-
-```
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
